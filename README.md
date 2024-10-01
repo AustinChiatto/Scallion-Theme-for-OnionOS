@@ -3,7 +3,7 @@ This is a repo for those who wish to download the theme while waiting for it to 
 
 - Contains both the original (green) and noir (black) theme files.
 
-If you find any issues with either theme, please send me a message, and I'll do my best to resolve it.
+If you find any issues with either theme, please post a message in [Discussions](https://github.com/AustinChiatto/Scallion-Theme-for-OnionOS/discussions), and I'll do my best to resolve it.
 
 ---
 
